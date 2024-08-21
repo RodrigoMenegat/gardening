@@ -5,18 +5,21 @@ title: "Mene's digital garden"
 
 <style type="text/css">
   
-  a:hover {
+a {
+	padding: 4px;
+	border: 1px solid black;
+	white-space: nowrap;
+}
 
+  a:hover {
+  	opacity: .5;
   }
 
   a.external {
-  	padding: 2px;
-    border: 1px solid black;
     color: #ffA500;
   }
 
    a.internal {
-    border: 1px solid black;
     color: #A020F0;
   }
 
@@ -29,19 +32,19 @@ This is my personal digital garden.
 
 I've been thinking about the concept for a while. I heard of it by my friend Tiago, who shared <a class="external" target="_blank" href="https://x.com/Mappletons/status/1250532315459194880">this Twitter thread he once read.
 
-It's basically about hypertext and continuity: an evolving digital place, where ideas are connected through hyperlinking. There are no concerns with being linear, chronological. This is no newsfeed.
+It's basically about hypertext and continuity: an evolving digital place, where ideas are connected through hyperlinking. There are no concerns with being linear, chronological. Things are also never finished: text, layout, images, all is subject to change. This is no newsfeed. It's garden!
 
-I've created this out of impulse, in a day when I was feeling restless. I've felt a creative urge, to make something that is inherently mine, but that I can also share with others.
+I've created this out of impulse, in a day when I was feeling restless. I've felt a creative urge, a desire to make something that is inherently mine, but that I can also share with others.
 
 I've been writing some journals and devoting time to street photography, but those are (at least up to now) personal endeavors. I feel the urge to put stuff out there – but not something like the journalism pieces I publish as my job, but something that is, and I'm getting repetive here, personal.
 
-I also decided to go on without planning too much. I think this will be a single, very long web page, that you can navigate by clicking a link. Once you click, you'll be immediately taken to some other part of the page. External links have a orange background. Internal links, that just take you to another part of the garden, will have a purple one.
+I also decided to go on without planning too much. My initial plan is that this will be a single very long web page that you can navigate by clicking internal links. Once you click, you'll be immediately taken to some other part of the page. The eventual external links will be in orange and always open in a new tab. Internal links, that just take you to another part of the garden, will be purple instead.
 
-That's as much thought as I'm willing to give to this. I'll just start writing and linking and see where this leads me. No copy-editing, no over-thinking, no design concerns. Maybe it will die in a couple days. Maybe it will linger. We'll see. 
+That's as much thought as I'm willing to give this before starting. I'll just start writing and linking and see where this leads me. No copy-editing, no over-thinking, no design concerns. Maybe it will die in a couple days. Maybe it will linger. We'll see. 
 
 Let's create the first hyperkink, shall we?
 
-Please, click, and I'll take you to <a class="internal" href="#on-language">On Language"</a>, where I give my reasoning about why I'm writing in English.
+Please, click, and I'll take you to <a class="internal" href="#on-language">On Language"</a>, where I give my reasoning for writing in English and not in my native Portuguese language.
 
 # On Language
 
