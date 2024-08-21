@@ -4,7 +4,13 @@ title: "Mene's digital garden"
 ---
 
 <style type="text/css">
+  
+  a:hover {
+
+  }
+
   a.external {
+  	padding: 2px;
     border: 1px solid black;
     color: #ffA500;
   }
@@ -35,11 +41,11 @@ That's as much thought as I'm willing to give to this. I'll just start writing a
 
 Let's create the first hyperkink, shall we?
 
-Please, click, and I'll take you to ["On Language"](#on-language), where I give my reasoning about why I'm writing in English.
+Please, click, and I'll take you to <a class="internal" href="#on-language">On Language"</a>, where I give my reasoning about why I'm writing in English.
 
 # On Language
 
-I'm a native Portuguese speaker, and I express myself much butter in my own language. However, I decided to write this in English because, just 15 minutes before starting the garden, I was reading my first Haruki Muramaki book – "Ouça a canção do vento & Pinball 1973", in the Portuguese name.
+I'm a native Portuguese speaker, and I express myself much butter in my own language. However, I decided to write this in English because, just 15 minutes before starting the garden, I was reading my first Haruki Muramaki book – <a class="external" href="https://www.goodreads.com/book/show/32853170-ou-a-a-can-o-do-vento-pinball-1973?ref=nav_sb_ss_1_9" target="_blank">"Ouça a canção do vento & Pinball 1973"</a>, in the Portuguese name.
 
 I still haven't gone too far. In fact, I was just reading the author's intro, where he explained his writing process. It turns out that he decided to write the beginning of the novel at first in English, and to adapt it into Japanese later.
 
@@ -47,13 +53,10 @@ His reasoning: since his English skills were much below his Japanese skills, he 
 
 I don't know how much truth there's to it, but it sounded wise, and I'm adopting it.
 
-This is the opposite perspective of one I came across while reading another book, "O apocalipse dos trabalhadores", by the Portuguese author Valter Hugo Mãe. 
+This is the opposite perspective of one I came across while reading another book, <a href="https://www.goodreads.com/book/show/6425806-o-apocalipse-dos-trabalhadores" target="_blank" class="external">O apocalipse dos trabalhadores"</a>, by the Portuguese author Valter Hugo Mãe. 
 
-I don't remember much about the plot, but I recall a scene in which two people meet repeatedly, but they didn't share a language both where proficient in. Suddenly, one of them realizes how the other (an immigrant) is struggling to conceive complex ideas and convey his feelings. He used to think that this migrant was stupid but no – he was simply a prisioner of his lack of vocabulary.
+I don't remember much about the plot, but I recall that two lovers met repeatedly, but they didn't share a language both were proficient in. Suddenly, one of them realizes how the other (an immigrant) is struggling to conceive complex ideas and convey his feelings. She used to think that this migrant was stupid, but no – he was simply a prisioner of his lack of vocabulary.
 
-This idea of looking stupid for not having access to the right words left a mark on me, and it still makes me anxious. 
+This idea of looking stupid for not having access to the right words left a mark on me, and it still makes me anxious. I've been traveling a lot lately, and working remotely in at least three different langauges... And  I don't speak the language of my main employer! 
 
-I've been traveling a lot lately, and working remotely in and environment where people speak several languages – and where I don't speak the language of my main employer. I often feel stupid because of this.
-
-Maybe, though, I'm not looking stupid as Hugo Mãe thought. Maybe I'm smart like Murakami. 
-
+I often feel stupid because of this. Maybe, though, I'm not stupid as Hugo Mãe thought. Maybe I'm smart like Murakami was!
