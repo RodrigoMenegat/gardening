@@ -1,0 +1,40 @@
+.site-header {
+  border: 1px solid black;
+}
+
+a.external, a.internal {
+  padding: 4px;
+  padding-left: 6px;
+  padding-right: 6px;
+  border: 1px solid black;
+  white-space: nowrap;
+}
+
+  a:hover {
+    opacity: .5;
+  }
+
+  a.external {
+    color: #ffA500;
+  }
+
+   a.internal {
+    color: #A020F0;
+  }
+
+h1 {
+  font-size: 36px;
+  text-transform: uppercase;
+}
+
+h1:before {
+  content: '';
+  width: 75px;
+  height: 3px;
+  background: #006699;
+  position: absolute;
+  left: 0px;
+  bottom: 0;
+  right:0;  
+  margin:0 auto;
+}
