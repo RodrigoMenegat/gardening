@@ -3,30 +3,6 @@ layout: page
 title: "Mene's digital garden"
 ---
 
-<style type="text/css">
-  
-a {
-	padding: 4px;
-	padding-left: 6px;
-	padding-right: 6px;
-	border: 1px solid black;
-	white-space: nowrap;
-}
-
-  a:hover {
-  	opacity: .5;
-  }
-
-  a.external {
-    color: #ffA500;
-  }
-
-   a.internal {
-    color: #A020F0;
-  }
-
-</style>
-
 
 # Welcome
 
@@ -46,7 +22,7 @@ That's as much thought as I'm willing to give this before starting. I'll just st
 
 Let's create the first hyperkink, shall we?
 
-Please, click, and I'll take you to <a class="internal" href="#on-language">On Language"</a>, where I give my reasoning for writing in English and not in my native Portuguese language.
+Please, click, and I'll take you to <a class="internal" href="#on-language">"On Language"</a>, where I give my reasoning for writing in English and not in my native Portuguese language.
 
 # On Language
 
@@ -58,7 +34,7 @@ His reasoning: since his English skills were much below his Japanese skills, he 
 
 I don't know how much truth there's to it, but it sounded wise, and I'm adopting it.
 
-This is the opposite perspective of one I came across while reading another book, <a href="https://www.goodreads.com/book/show/6425806-o-apocalipse-dos-trabalhadores" target="_blank" class="external">O apocalipse dos trabalhadores"</a>, by the Portuguese author Valter Hugo Mãe. 
+This is the opposite perspective of one I came across while reading another book, <a href="https://www.goodreads.com/book/show/6425806-o-apocalipse-dos-trabalhadores" target="_blank" class="external">"O apocalipse dos trabalhadores"</a>, by the Portuguese author Valter Hugo Mãe. 
 
 I don't remember much about the plot, but I recall that two lovers met repeatedly, but they didn't share a language both were proficient in. Suddenly, one of them realizes how the other (an immigrant) is struggling to conceive complex ideas and convey his feelings. She used to think that this migrant was stupid, but no – he was simply a prisioner of his lack of vocabulary.
 
