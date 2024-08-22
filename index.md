@@ -127,11 +127,13 @@ For example, at the time I originally wrote this, I was juggling between the Fat
 
 The major drawback is that I can no longer pack light for any kind of travel, as I rediscovered my taste for beautiful editions and no longer have the same pleasure when reading on a Kindle or a similar device.
 
+<hr>
+
 # On journaling
 
 I've been journaling since December 2023, with varying degrees of commitment. Sometimes I write every single day for weeks. Sometimes I forget my journals for months. However, so far, I always returned to it. Apparently, I now have developed a habit, and hopefully it will last.
 
-<a href="#welcome" class="internal">This garden</a>, is in itself a form of journaling, isn't it?
+<a href="#welcome" class="internal">This garden</a> is itself a form of journaling, isn't it?
 
 It's interesting to open the notebooks in a random page and see what I was thinking at the. It has been only a few months, but it's still interesting to notice how the things that were troubling me in January are the same that trouble me know, in August. 
 
