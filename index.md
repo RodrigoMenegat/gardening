@@ -37,6 +37,10 @@ title: "Mene's digital garden"
 	  text-transform: uppercase;
 	}
 
+	hr {
+		margin-bottom: 30px;
+	}
+
 </style>
 
 # Welcome
