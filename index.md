@@ -14,7 +14,7 @@ title: "Mene's digital garden"
 	}
 
 	a.external, a.internal {
-	  padding: 4px;
+	  padding: 2px;
 	  padding-left: 6px;
 	  padding-right: 6px;
 	  white-space: nowrap;
@@ -87,7 +87,7 @@ It's my own place on the internet, after all.
 
 I'm a native Portuguese speaker, and I express myself much butter in my own language. However, I decided to write this in English because, just 15 minutes before starting the garden, I was reading my first Haruki Murakami book: <a class="external" href="https://www.goodreads.com/book/show/32853170-ou-a-a-can-o-do-vento-pinball-1973?ref=nav_sb_ss_1_9" target="_blank">"Ouça a canção do vento & Pinball 1973",</a> in the Portuguese name.
 
-I still haven't <a class="internal" target="_blank" href="#on-reading-multiple-books-at-the-same-time">gone far into reading it.</a> In fact, I was just reading the author's introduction, where he explained his writing process. It turns out that he decided to write the beginning of the novel at first in English, and to adapt it into Japanese later.
+I still haven't <a class="internal" href="#on-reading-multiple-books-at-the-same-time">gone far into reading it.</a> In fact, I was just reading the author's introduction, where he explained his writing process. It turns out that he decided to write the beginning of the novel at first in English, and to adapt it into Japanese later.
 
 <b>Quick side note:</b> his sudden desire to express himself in a novel, which he explains on the preface, gave me <a href="#welcome" class="internal">the sudden impulse for starting this garden.</a>
 
@@ -103,7 +103,7 @@ This idea of looking stupid for not having access to the right words left a mark
 
 I often feel stupid because of this. Maybe, though, I'm not stupid as Hugo Mãe thought. Maybe I'm smart like Murakami was.
 
-<hr></hr>
+<hr>
 
 # On reading multiple books at the same time
 
