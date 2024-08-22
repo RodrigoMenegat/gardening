@@ -69,7 +69,7 @@ I've been writing some journals and devoting time to street photography, but tho
 
 Digital gardeners often create neat and ordered lawns. They may be ever growing, organic and dynamic, but they still follow at least some degree of order – tags, labels, different pages and indexes.
 
-I, however, decided to go on without planning too much. This garden is not a well-kempt lawn, but rather an effort <a href='https://en.wikipedia.org/wiki/Natural_landscaping' class='external' target='_blank'>natural landscaping.</a> I'm letting my uncultivated thoughts flow, with just a little bit of trimming here and there. 
+I, however, decided to go on without planning too much. This garden is not a well-kempt lawn, but rather an effort at<a href='https://en.wikipedia.org/wiki/Natural_landscaping' class='external' target='_blank'>natural landscaping.</a> I'm letting my uncultivated thoughts flow, with just a little bit of trimming here and there. 
 
 My initial plan is to build a single, very long web page that you can navigate by clicking internal links. Once you click, you'll be immediately taken to some other part of the page. The eventual external links will be in orange and always open in a new tab. Internal links, that just take you to another part of the garden, will be purple instead.
 
