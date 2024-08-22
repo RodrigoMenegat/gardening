@@ -3,7 +3,7 @@ layout: page
 title: "Mene's digital garden"
 ---
 
-<!-- <style>
+<style>
 	.site-header {
 	  border: 1px solid black;
 	}
@@ -44,7 +44,7 @@ title: "Mene's digital garden"
 	  right:0;  
 	  margin:0 auto;
 	}
-</style> -->
+</style>
 
 # Welcome
 
