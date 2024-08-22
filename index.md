@@ -71,7 +71,9 @@ I'm a native Portuguese speaker, and I express myself much butter in my own lang
 
 I still haven't gone far into reading. In fact, I was just reading the author's introduction, where he explained his writing process. It turns out that he decided to write the beginning of the novel at first in English, and to adapt it into Japanese later.
 
-His reasoning: since his English skills were much below his Japanese skills, he was forced to use only simple, direct, and concise sentences. And, in his opinion, this was not bad – it helped him find his voice, stripping his writing of pretentiousness and getting rid of an exaggerated concern for literary values.
+<b>Quick side note:</b> his sudden desire to express himself in a novel, which he explains on the preface, also reminded me of <a href="#welcome" class="internal">the sudden impulse for starting this garden.</a>
+
+Anyway, back to his reasoning for using another language than japanese: since his English skills were much below his Japanese skills, he was forced to use only simple, direct, and concise sentences. And, in his opinion, this was not bad – it helped him find his voice, stripping his writing of pretentiousness and getting rid of an exaggerated concern for literary values.
 
 I don't know how much truth there's to it, but it sounded wise, and I'm adopting it.
 
