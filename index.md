@@ -9,12 +9,10 @@ title: "Mene's digital garden"
 	}
 
 
-
 	a.external, a.internal {
 	  padding: 4px;
 	  padding-left: 6px;
 	  padding-right: 6px;
-	  border: 1px solid black; 
 	  white-space: nowrap;
 	}
 
@@ -24,14 +22,19 @@ title: "Mene's digital garden"
 
 	  a.external {
 	    color: #ffA500;
+	    border: 1px solid #ffA500; 
+
 	  }
 
 	   a.internal {
 	    color: #A020F0;
+	    border: 1px solid #A020F0; 
+
 	  }
 
 	h1 {
 	  font-size: 28px;
+	  text-transform: uppercase;
 	}
 
 </style>
@@ -55,6 +58,8 @@ That's as much thought as I'm willing to give this before starting. I'll just st
 Let's create the first hyperkink, shall we?
 
 Please, click, and I'll take you to <a class="internal" href="#on-language">"On Language"</a>, where I give my reasoning for writing in English and not in my native Portuguese language.
+
+<hr></hr>
 
 # On Language
 
