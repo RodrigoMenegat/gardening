@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: base
 title: "Mene's digital garden"
 ---
 
@@ -8,9 +8,7 @@ title: "Mene's digital garden"
 	  border: 1px solid black;
 	}
 
-	h1.post-title {
-		
-	}
+
 
 	a.external, a.internal {
 	  padding: 4px;
