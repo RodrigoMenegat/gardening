@@ -44,9 +44,10 @@ title: "Mene's digital garden"
 </style>
 
 
-<b>Garden last tended to in 21.08.2024</b>
-<a id="scroll-link" class="internal" href="#">Go to the latest addition 🪴</a>
-
+<div class="group">
+	<p><b>Garden last tended to in 21.08.2024</b></p>
+	<a id="scroll-link" class="internal" href="#">Go to the latest addition 🪴</a>
+</div>
 
 # Welcome
 
