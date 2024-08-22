@@ -4,10 +4,14 @@ title: "Mene's digital garden"
 ---
 
 <style>
+
+	html {
+	  scroll-behavior: smooth;
+	}
+
 	.site-header {
 	  border: 1px solid black;
 	}
-
 
 	a.external, a.internal {
 	  padding: 4px;
