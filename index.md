@@ -133,17 +133,19 @@ The major drawback is that I can no longer pack light for any kind of travel, as
 
 I've been journaling since December 2023, with varying degrees of commitment. Sometimes I write every single day for weeks. Sometimes I forget my journals for months. However, so far, I always returned to it. Apparently, I now have developed a habit, and hopefully it will last.
 
-<a href="#welcome" class="internal">This garden</a> is itself a form of journaling, isn't it?
+<a href="#welcome" class="internal">This garden</a> is also a form of journaling, isn't it?
 
-It's interesting to open the notebooks in a random page and see what I was thinking at the. It has been only a few months, but it's still interesting to notice how the things that were troubling me in January are the same that trouble me know, in August. 
+Writing journals is, in itself, something I feel it's worth doing. 
 
-And it's also interesting to see that, despite devoting so much mental energy, I don't seem to have moved any closer to solving them.
-
-Writing journals is, by itself, something I feel it's worth doing. 
-
-It helps decluttering the mind, and sometimes when doing it I make thought-connections I wouldn't make otherwise. It forces me to slow down and process thoughts slowly, which is therapeutic. And I always liked filling notebooks. 
+It helps declutter the mind, and sometimes when journaling I make thought-connections I wouldn't make otherwise. It forces me to slow down and process thoughts slowly, which is therapeutic. And I always liked filling notebook, in any case!
 
 But, on top of all that, it can also be an interesting tool for identifying these persistant issues and rethink how to approach them.
+
+It's interesting to open the notebooks in a random page and see what I was thinking at the time. 
+
+It has been only a few months, but it's still interesting to notice how the things that were troubling me in January are the same that trouble me know, in August. And it's also interesting to see that, despite devoting so much mental energy to them, I don't seem to have moved any closer to solving anything.
+
+
 
 <script>
     // JavaScript to find the last <h1> and set a class
