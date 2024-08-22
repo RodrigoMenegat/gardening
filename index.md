@@ -8,6 +8,10 @@ title: "Mene's digital garden"
 	  border: 1px solid black;
 	}
 
+	h1.post-title {
+		
+	}
+
 	a.external, a.internal {
 	  padding: 4px;
 	  padding-left: 6px;
@@ -29,21 +33,9 @@ title: "Mene's digital garden"
 	  }
 
 	h1 {
-	  font-size: 36px;
-	  text-transform: uppercase;
+	  font-size: 28px;
 	}
 
-	h1:before {
-	  content: '';
-	  width: 75px;
-	  height: 3px;
-	  background: #006699;
-	  position: absolute;
-	  left: 0px;
-	  bottom: 0;
-	  right:0;  
-	  margin:0 auto;
-	}
 </style>
 
 # Welcome
