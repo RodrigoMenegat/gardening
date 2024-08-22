@@ -65,7 +65,7 @@ It's basically about hypertext and continuity: an evolving digital place, where 
 
 I've created this out of impulse, in a day when I was feeling restless. I felt a creative urge, a desire to make something that is inherently mine, but that I can also share with others.
 
-I've been writing some journals and devoting time to street photography, but those are (at least up to now) very personal endeavors. I still feel the urge to put stuff out there – and not something like the journalism pieces I publish for my job, but something that is, and I'm getting repetitive here, personal.
+I've been <a class='internal' href='#on-journaling'>journaling</a> and devoting time to street photography, but those are (at least up to now) very personal endeavors. I still feel the urge to put stuff out there – and not something like the journalism pieces I publish for my job, but something that is, and I'm getting repetitive here, personal.
 
 Digital gardeners often create <a class="external" href="https://maggieappleton.com/garden" target="_blank">neat and ordered lawns.</a> They may be ever growing, organic and dynamic, but they still follow at least some degree of order – tags, labels, different pages and indexes. I, however, decided to go on without planning too much. 
 
@@ -127,6 +127,21 @@ For example, at the time I originally wrote this, I was juggling between the Fat
 
 The major drawback is that I can no longer pack light for any kind of travel, as I rediscovered my taste for beautiful editions and no longer have the same pleasure when reading on a Kindle or a similar device.
 
+# On journaling
+
+I've been journaling since December 2023, with varying degrees of commitment. Sometimes I write every single day for weeks. Sometimes I forget my journals for months. However, so far, I always returned to it. Apparently, I now have developed a habit, and hopefully it will last.
+
+<a href="#welcome" class="internal">This garden</a>, is in itself a form of journaling, isn't it?
+
+It's interesting to open the notebooks in a random page and see what I was thinking at the. It has been only a few months, but it's still interesting to notice how the things that were troubling me in January are the same that trouble me know, in August. 
+
+And it's also interesting to see that, despite devoting so much mental energy, I don't seem to have moved any closer to solving them.
+
+Writing journals is, by itself, something I feel it's worth doing. 
+
+It helps decluttering the mind, and sometimes when doing it I make thought-connections I wouldn't make otherwise. It forces me to slow down and process thoughts slowly, which is therapeutic. And I always liked filling notebooks. 
+
+But, on top of all that, it can also be an interesting tool for identifying these persistant issues and rethink how to approach them.
 
 <script>
     // JavaScript to find the last <h1> and set a class
