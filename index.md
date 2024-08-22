@@ -57,13 +57,13 @@ That's as much thought as I'm willing to give this before starting. I'll just st
 
 Let's create the first hyperkink, shall we?
 
-Please, click, and I'll take you to <a class="internal" href="#on-language">"On Language"</a>, where I give my reasoning for writing in English and not in my native Portuguese language.
+Please, click, and I'll take you to <a class="internal" href="#on-language">"On Language",</a> where I give my reasoning for writing in English and not in my native Portuguese language.
 
-<hr></hr>
+<hr>
 
 # On Language
 
-I'm a native Portuguese speaker, and I express myself much butter in my own language. However, I decided to write this in English because, just 15 minutes before starting the garden, I was reading my first Haruki Murakami book: <a class="external" href="https://www.goodreads.com/book/show/32853170-ou-a-a-can-o-do-vento-pinball-1973?ref=nav_sb_ss_1_9" target="_blank">"Ouça a canção do vento & Pinball 1973"</a>, in the Portuguese name.
+I'm a native Portuguese speaker, and I express myself much butter in my own language. However, I decided to write this in English because, just 15 minutes before starting the garden, I was reading my first Haruki Murakami book: <a class="external" href="https://www.goodreads.com/book/show/32853170-ou-a-a-can-o-do-vento-pinball-1973?ref=nav_sb_ss_1_9" target="_blank">"Ouça a canção do vento & Pinball 1973",</a> in the Portuguese name.
 
 I still haven't gone far into reading. In fact, I was just reading the author's introduction, where he explained his writing process. It turns out that he decided to write the beginning of the novel at first in English, and to adapt it into Japanese later.
 
@@ -71,7 +71,7 @@ His reasoning: since his English skills were much below his Japanese skills, he 
 
 I don't know how much truth there's to it, but it sounded wise, and I'm adopting it.
 
-This is the opposite perspective of one I came across while reading another book, <a href="https://www.goodreads.com/book/show/6425806-o-apocalipse-dos-trabalhadores" target="_blank" class="external">"O apocalipse dos trabalhadores"</a>, by the Portuguese author Valter Hugo Mãe. 
+This is the opposite perspective of one I came across while reading another book, <a href="https://www.goodreads.com/book/show/6425806-o-apocalipse-dos-trabalhadores" target="_blank" class="external">"O apocalipse dos trabalhadores",</a> by the Portuguese author Valter Hugo Mãe. 
 
 I don't remember much about the plot, but I recall that two lovers met repeatedly, but they didn't share a language both were proficient in. Suddenly, one of them realizes how the other (an immigrant) is struggling to conceive complex ideas and convey his feelings. She used to think that this migrant was stupid, but no – he was simply a prisioner of his lack of vocabulary.
 
