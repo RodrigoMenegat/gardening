@@ -39,10 +39,12 @@ title: "Mene's digital garden"
 	h1 {
 	  font-size: 28px;
 	  text-transform: uppercase;
+	  margin-top: 30px;
+	  margin-bottom: 30px;
 	}
 
 	hr {
-		margin-bottom: 30px;
+		border: 1px solid black;
 	}
 
 </style>
