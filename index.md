@@ -47,6 +47,15 @@ title: "Mene's digital garden"
 		border: 1px solid black;
 	}
 
+	blockquote.poem {
+		border-left: 3px solid #000;  /* tua cor interna */
+		padding-left: 16px;
+		margin: 20px 0;
+		font-style: italic;
+		line-height: 1.6;
+		white-space: pre-line; /* mantém quebras de linha */
+	}
+
 </style>
 
 
@@ -160,7 +169,7 @@ Minha obsessão recente é o disco de 1984, do Gilberto Gil, o <a href="https://
 
 A letra é a descrição da minha vida de ansioso - sempre surto com medo de tiro, de vírus, dos homens, por sorte não de fome - mas sempre passo bem no final.
 
-<blockquote>
+<blockquote class="poem">
 	Sou feliz por um triz
 	Por um triz sou feliz
 	
