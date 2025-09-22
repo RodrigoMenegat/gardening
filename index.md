@@ -160,36 +160,38 @@ Minha obsessão recente é o disco de 1984, do Gilberto Gil, o <a href="https://
 
 A letra é a descrição da minha vida de ansioso - sempre surto com medo de tiro, de vírus, dos homens, por sorte não de fome - mas sempre passo bem no final.
 
-> Sou feliz por um triz
-> Por um triz sou feliz
-> 
-> Mal escapo à fome
-> Mal escapo aos tiros
-> Mal escapo aos homens
-> Mal escapo ao vírus
-> Passam raspando
-> Tirando até meu verniz
+<blockquote>
+	Sou feliz por um triz
+	Por um triz sou feliz
+	
+	Mal escapo à fome
+	Mal escapo aos tiros
+	Mal escapo aos homens
+	Mal escapo ao vírus
+	Passam raspando
+	Tirando até meu verniz
 
-> O fato é que eu me viro mais que picolé
-> Em boca de banguelo
-> Por pouco, mas eu sempre tiro o dedo – é
-> Na hora da porrada do martelo
-> E sempre fica tudo azul, mesmo depois
-> Do medo me deixar verde-amarelo
-> Liga-se a luz do abajur lilás
-> Mesmo que por um fio de cabelo
+	O fato é que eu me viro mais que picolé
+	Em boca de banguelo
+	Por pouco, mas eu sempre tiro o dedo – é
+	Na hora da porrada do martelo
+	E sempre fica tudo azul, mesmo depois
+	Do medo me deixar verde-amarelo
+	Liga-se a luz do abajur lilás
+	Mesmo que por um fio de cabelo
 
-> Sou feliz por um triz
-> Por um triz sou feliz
+	Sou feliz por um triz
+	Por um triz sou feliz
 
-> Eu já me acostumei com a chaminé bem quente
-> Do Expresso do Ocidente
-> Seguro que eu me safo até muito bem
-> Andando pendurado nesse trem
-> As luzes da cidade-mocidade vão
-> Guiando por aí meu coração
-> Chama-se o Aladim da lâmpada neon
-> E de repente fica tudo bom
+	Eu já me acostumei com a chaminé bem quente
+	Do Expresso do Ocidente
+	Seguro que eu me safo até muito bem
+	Andando pendurado nesse trem
+	As luzes da cidade-mocidade vão
+	Guiando por aí meu coração
+	Chama-se o Aladim da lâmpada neon
+	E de repente fica tudo bom
+</blockquote>
 
 E, pra terminar, impossível não citar o Transa, do Caetano Veloso, que virou um dos meus discos favoritos desde que escutei pela primeira vez e que vive no _repeat_ desde então (segundo o <a href="https://www.last.fm/user/RColorado" class="external" target="_blanl">last.fm</a>, mais de 300 vezes desde Novembro de 2024).
 
