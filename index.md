@@ -53,6 +53,7 @@ title: "Mene's digital garden"
 <div class="group">
 	<p><b>Garden last tended to in 22.08.2024</b></p>
 	<a id="scroll-link" class="internal" href="#">Go to the latest addition 🪴</a>
+	<a id="random-link" class="internal">Go to a random corner 🌿</a>
 </div>
 
 # Welcome
@@ -146,6 +147,60 @@ It's interesting to open the notebooks in a random page and see what I was think
 It has been only a few months, but it's still interesting to notice how the things that were troubling me in January are the same that trouble me know, in August. And it's also interesting to see that, despite devoting so much mental energy to them, I don't seem to have moved any closer to solving anything.
 
 
+# Vivo, muito vivo
+
+<i>Escrito em 22 de Setembro de 2025</i>
+
+Eu dava esse jardim como morto, mas aqui estou, praticamente um ano depois. Pensei em criar um blog, mas aí lembrei que tinha começado isso aqui e, pum, resolvi não começar _mais uma coisa na internet_ e voltar para esse projeto esquecido. Motivo para o retorno? Vontade de compartilhar algumas coisas que tenho lido, ouvido, pensado.
+
+Estou desobedecendo o impulso original <a href="#on-language" class="internal"> de escrever em inglês porque ando bem brasileiro - ou, ao menos, escutando muita música brasileira.
+
+Minha obsessão recente é o disco de 1984, do Gilberto Gil, o <a href="https://gilbertogil.com.br/noticias/producoes/detalhes/raca-humana/" class="external" target="_blank">Raça Humana</a>. É o disco que tem <a href="https://www.youtube.com/watch?v=kc6UXu_MXoo&list=RDkc6UXu_MXoo&start_radio=1" class="external" target="_blank">"Vamos Fugir"</a> (que até pouco tempo atrás eu jurava que era do Skank, de tão famoso que o cover ficou!), mas a música que me pegou mesmo foi <a href="https://www.youtube.com/watch?v=ttvo7BTsgfo&list=RDttvo7BTsgfo&start_radio=1" target_="blank" class="external">"Feliz por um triz"</a>, que tem aquela pegada de rock nacional totalmente anos oitenta.
+
+A letra é a descrição da minha vida de ansioso - sempre surto com medo de tiro, de vírus, dos homens, por sorte não de fome - mas sempre passo bem no final.
+
+> Sou feliz por um triz
+> Por um triz sou feliz
+> 
+> Mal escapo à fome
+> Mal escapo aos tiros
+> Mal escapo aos homens
+> Mal escapo ao vírus
+> Passam raspando
+> Tirando até meu verniz
+
+> O fato é que eu me viro mais que picolé
+> Em boca de banguelo
+> Por pouco, mas eu sempre tiro o dedo – é
+> Na hora da porrada do martelo
+> E sempre fica tudo azul, mesmo depois
+> Do medo me deixar verde-amarelo
+> Liga-se a luz do abajur lilás
+> Mesmo que por um fio de cabelo
+
+> Sou feliz por um triz
+> Por um triz sou feliz
+
+> Eu já me acostumei com a chaminé bem quente
+> Do Expresso do Ocidente
+> Seguro que eu me safo até muito bem
+> Andando pendurado nesse trem
+> As luzes da cidade-mocidade vão
+> Guiando por aí meu coração
+> Chama-se o Aladim da lâmpada neon
+> E de repente fica tudo bom
+
+E, pra terminar, impossível não citar o Transa, do Caetano Veloso, que virou um dos meus discos favoritos desde que escutei pela primeira vez e que vive no _repeat_ desde então (segundo o <a href="https://www.last.fm/user/RColorado" class="external" target="_blanl">last.fm</a>, mais de 300 vezes desde Novembro de 2024).
+
+É de "Nine Out of Ten" que vem o título dessa entrada, aliás! Especificamente, de um verso que repito mentalmente pra superar a paralisia causada por esse medo louco que tenho da morte.
+
+> I know that one day I must die
+> I'm alive, I'm alive
+> And vivo, muito vivo, vivo, vivo
+
+E enquanto não chegar o dia, sigo por aqui. Encerro com Gil e Caetano tocando <a href="https://www.youtube.com/watch?v=WzlOoaCkjj4&list=RDWzlOoaCkjj4&start_radio=1" target="_blank" class="external">essa</a> juntos!
+
+
 
 <script>
     // JavaScript to find the last <h1> and set a class
@@ -162,4 +217,13 @@ It has been only a few months, but it's still interesting to notice how the thin
             targetElement.scrollIntoView({ behavior: 'smooth' });
         }
     });
+
+	// Selects a random h1 (or # level) entry
+	const sections = Array.from(document.querySelectorAll("h1[id]"));
+
+	document.getElementById("random-link").addEventListener("click", () => {
+		if (sections.length === 0) return;
+		const random = sections[Math.floor(Math.random() * sections.length)];
+		random.scrollIntoView({ behavior: "smooth" });
+	});
 </script>
