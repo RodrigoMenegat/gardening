@@ -146,6 +146,7 @@ It's interesting to open the notebooks in a random page and see what I was think
 
 It has been only a few months, but it's still interesting to notice how the things that were troubling me in January are the same that trouble me know, in August. And it's also interesting to see that, despite devoting so much mental energy to them, I don't seem to have moved any closer to solving anything.
 
+<hr>
 
 # Vivo, muito vivo
 
@@ -218,12 +219,19 @@ E enquanto não chegar o dia, sigo por aqui. Encerro com Gil e Caetano tocando <
         }
     });
 
-	// Selects a random h1 (or # level) entry
+	// Random post selector
 	const sections = Array.from(document.querySelectorAll("h1[id]"));
 
 	document.getElementById("random-link").addEventListener("click", () => {
-		if (sections.length === 0) return;
-		const random = sections[Math.floor(Math.random() * sections.length)];
-		random.scrollIntoView({ behavior: "smooth" });
+		// If there are less than 3 sections, there's nothing valid to choose
+		if (sections.length <= 2) return;
+
+		// Generate a random index between 1 and sections.length - 2
+		// This excludes the first (index 0) and the last (index length-1)
+		const randomIndex = Math.floor(Math.random() * (sections.length - 2)) + 1;
+		const section = sections[randomIndex];
+
+		console.log(section); // For debugging
+		section.scrollIntoView({ behavior: "smooth" });
 	});
 </script>
