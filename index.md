@@ -154,7 +154,7 @@ It has been only a few months, but it's still interesting to notice how the thin
 
 Eu dava esse jardim como morto, mas aqui estou, praticamente um ano depois. Pensei em criar um blog, mas aí lembrei que tinha começado isso aqui e, pum, resolvi não começar _mais uma coisa na internet_ e voltar para esse projeto esquecido. Motivo para o retorno? Vontade de compartilhar algumas coisas que tenho lido, ouvido, pensado.
 
-Estou desobedecendo o impulso original <a href="#on-language" class="internal"> de escrever em inglês porque ando bem brasileiro - ou, ao menos, escutando muita música brasileira.
+Estou desobedecendo o impulso original <a href="#on-language" class="internal"> de escrever em inglês</a> porque ando bem brasileiro - ou, ao menos, escutando muita música brasileira.
 
 Minha obsessão recente é o disco de 1984, do Gilberto Gil, o <a href="https://gilbertogil.com.br/noticias/producoes/detalhes/raca-humana/" class="external" target="_blank">Raça Humana</a>. É o disco que tem <a href="https://www.youtube.com/watch?v=kc6UXu_MXoo&list=RDkc6UXu_MXoo&start_radio=1" class="external" target="_blank">"Vamos Fugir"</a> (que até pouco tempo atrás eu jurava que era do Skank, de tão famoso que o cover ficou!), mas a música que me pegou mesmo foi <a href="https://www.youtube.com/watch?v=ttvo7BTsgfo&list=RDttvo7BTsgfo&start_radio=1" target_="blank" class="external">"Feliz por um triz"</a>, que tem aquela pegada de rock nacional totalmente anos oitenta.
 
